@@ -2,7 +2,7 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='173.82.65.242';
+db_host='66.45.248.110';
 db_user='digitelp_ziavlptunnel';
 db_pass='ME2HE2Di@';
 db_name='digitelp_ziavlptunnel';
