@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 db_host='173.82.65.242';
-db_user='ziavlptunnel_ziavlptunnel';
-db_pass='dig2s1#0550013763';
-db_name='ziavlptunnel_ziavlptunnel';
+db_user='digitelp_ziavlptunnel';
+db_pass='ME2HE2Di@';
+db_name='digitelp_ziavlptunnel';
 
 install_require()
 {
